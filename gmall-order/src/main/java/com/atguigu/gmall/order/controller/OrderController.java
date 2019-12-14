@@ -10,6 +10,17 @@ public class OrderController {
     @RequestMapping("index")
     @ResponseBody
     public String index() {
+
         return "订单项目准备开发";
+
+
+
+    }
+
+
+    public static void main(String[] args) {
+
+        System.out.println("李福鑫  撕逼");
+
     }
 }
