@@ -9,10 +9,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class SearchController {
     @RequestMapping("/search")
     @ResponseBody
-   public String search(){
+    public String search() {
         System.out.println("修改");
         System.out.println("1.0");
         System.out.println("2.0");
-       return"搜索成功";
-   }
+        return "搜索成功";
+    }
 }
+
