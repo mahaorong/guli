@@ -10,13 +10,13 @@ public class OrderController {
     @RequestMapping("index")
     @ResponseBody
     public String index() {
-        System.out.println("小彭");
+        System.out.println("小彭是猪");
         return "index";
     }
 
 
     public static void main(String[] args) {
-        System.out.println("55555555");
+        System.out.println("小彭是猪");
         System.out.println("我是小彭，我负责订单模块");
         System.out.println(123456789);
     }
