@@ -19,5 +19,7 @@ public class OrderController {
         System.out.println("小彭是猪");
         System.out.println("我是小彭，我负责订单模块");
         System.out.println(123456789);
+
+        System.out.println("来打我啊 撕逼");
     }
 }
