@@ -13,6 +13,7 @@ public class SearchController {
         System.out.println("修改");
         System.out.println("已经更新到1.0版本");
         System.out.println("小吴修改版的代码--------");
+        System.out.println("小肖修改了代码");
         return "搜索成功";
 
     }
