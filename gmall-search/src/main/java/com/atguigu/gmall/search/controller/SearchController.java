@@ -13,4 +13,7 @@ public class SearchController {
         System.out.println("修改");
        return"搜索成功";
    }
+    public static void main(String[] args) {
+        System.out.println("搜索成功");
+    }
 }
