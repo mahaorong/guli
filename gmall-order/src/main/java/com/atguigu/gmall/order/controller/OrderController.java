@@ -10,6 +10,9 @@ public class OrderController {
     @RequestMapping("index")
     @ResponseBody
     public String index() {
+        System.out.println("小彭");
         return "index";
     }
+
+
 }
