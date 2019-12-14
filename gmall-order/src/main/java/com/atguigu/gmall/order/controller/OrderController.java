@@ -12,4 +12,9 @@ public class OrderController {
     public String index() {
         return "index";
     }
+
+
+    public static void main(String[] args) {
+        System.out.println("我是小彭，我负责订单模块");
+    }
 }
