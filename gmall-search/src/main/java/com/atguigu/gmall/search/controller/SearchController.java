@@ -11,8 +11,7 @@ public class SearchController {
     @ResponseBody
     public String search() {
         System.out.println("修改");
-        System.out.println("1.0");
-        System.out.println("2.0");
+        System.out.println("已经更新到1.0版本");
         return "搜索成功";
     }
 }
