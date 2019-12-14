@@ -1,4 +1,8 @@
 package com.atguigu.gmall.passport.controller;
 
-public class PassPortController {
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class PassportController {
+
 }
